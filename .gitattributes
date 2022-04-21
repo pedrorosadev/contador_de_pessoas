@@ -4,5 +4,5 @@
 *.flutter linguist-vendored=true
 *.c++ linguist-vendored=false
 *.c linguist-vendored=false
-*.html linguist-vendored=false
+*.HTML linguist-vendored=false
 *.kotlin linguist-vendored=false
