@@ -1,7 +1,5 @@
 * linguist-vendored
 *.CMake linguist-vendored=false
-*.dart linguist-vendored=true
-*.flutter linguist-vendored=true
 *.c++ linguist-vendored=false
 *.c linguist-vendored=false
 *.HTML linguist-vendored=false
