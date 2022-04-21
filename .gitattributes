@@ -1,6 +1,0 @@
-* linguist-vendored
-*.CMake linguist-vendored=false
-*.c++ linguist-vendored=false
-*.c linguist-vendored=false
-*.html linguist-vendored=false
-*.kotlin linguist-vendored=false
